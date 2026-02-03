@@ -1,0 +1,7 @@
+Insights
+
+A small group of customers contributes a disproportionately high share of total sales, indicating a strong reliance on high-value customers.
+
+Sales show clear month-over-month fluctuations, with certain months experiencing significant growth followed by sharp declines, indicating seasonality.
+
+Within each category, the top 3 products generate the majority of revenue, highlighting opportunities to prioritize inventory and marketing for these products.

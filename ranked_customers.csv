@@ -1,0 +1,15 @@
+Region,customer_name,total_sales,rank_result,dense_rank_result
+Central,"Pete Kriz",665.88,1,1
+Central,"Ken Black",79.80000000000001,2,2
+Central,"Harold Pawlan",71.35000000000001,3,3
+East,"Sandra Flanagan",71.37,1,1
+South,"Claire Gute",993.9000000000001,1,1
+South,"Sean O'Donnell",979.95,2,2
+South,"Andrew Allen",15.55,3,3
+West,"Brosina Hoffman",3714.29,1,1
+West,"Emily Burns",1044.63,2,2
+West,"Irene Maddox",407.98,3,3
+West,"Zuschuss Donatelli",244.76,4,4
+West,"Alejandro Grove",55.5,5,5
+West,"Darrin Van Huff",14.62,6,6
+West,"Eric Hoffmann",11.65,7,7
